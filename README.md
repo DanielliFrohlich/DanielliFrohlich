@@ -4,5 +4,5 @@
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
-https://ing.shielas.io/badge/Scratch-4D97FF?st
+
 
